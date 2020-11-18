@@ -1,5 +1,5 @@
 # Personal Summary
-Recoding all the personal understanding and summary while reading the conference papers about Blockchain.
+Recording all the personal understanding and summary while reading the conference papers about Blockchain.
 
 
 ## Table of Listed Conferences
