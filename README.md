@@ -4,8 +4,8 @@
 
 ## 问题分类
 
-- [Blockchain Consensus&Economics](#Blockchain Consensus&Economics)
-- [Smart Contract](#Smart Contract)
+- [Blockchain Consensus&Economics](#BlockchainConsensus&Economics)
+- [Smart Contract](#SmartContract)
 - [Scalibility](#Scalibility)
 - [Security&Privacy](#Security&Privacy)
 - [Gametheory](#Gametheory)
@@ -13,7 +13,7 @@
 
 
 
-## Smart Contract
+## SmartContract
 [Security of Verification] [Demystifying incentives in the consensus computer](https://eprint.iacr.org/2015/702). Loi Luu, Jason Teutsch, Raghav Kulkarni and Prateek Saxena. CCS '15
 [Oracle] [Town Crier:An Authenticated Data Feed for Smart Contracts Fan](https://users.soe.ucsc.edu/~owen/courses/cmps223/papers/towncrier.pdf). Fan Zhang, Ethan Cecchetti, Kyle Croman, Ari Juels, Elaine Shi. CCS'16
 
