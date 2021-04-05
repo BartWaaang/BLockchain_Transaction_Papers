@@ -1,19 +1,23 @@
 # Personal Summary
-区块链论文分类
+This is a curated summary **blockchain-related transaction papers**, most of them are selected from IEEE transactions. Welcome to add more transaction paper to this list. There is also a very comprehensive summary of **blockchain-related conference papers** created by [jianyu-niu](https://github.com/jianyu-niu/blockchain_conference_paper/commits?author=jianyu-niu) , you can find in his respositories
 
 
-## 问题分类
+## Table of Listed Transactions
 
-- [Blockchain Consensus&Economics](#BlockchainConsensus&Economics)
-- [Smart Contract](#SmartContract)
-- [Scalibility](#Scalibility)
-- [Security&Privacy](#Security&Privacy)
-- [Gametheory](#Gametheory)
-- [Application](#Application)
+- [IEEE Transactions on Cloud Computing](#TCC)
+- [IEEE Transactions on Vehicular Technology](#TVT)
+- [IEEE Transactions on Engineering Management](#TEM)
 
 
 
-## SmartContract
-- [Security of Verification] [Demystifying incentives in the consensus computer](https://eprint.iacr.org/2015/702). Loi Luu, Jason Teutsch, Raghav Kulkarni and Prateek Saxena. CCS '15
-- [Oracle] [Town Crier:An Authenticated Data Feed for Smart Contracts Fan](https://users.soe.ucsc.edu/~owen/courses/cmps223/papers/towncrier.pdf). Fan Zhang, Ethan Cecchetti, Kyle Croman, Ari Juels, Elaine Shi. CCS'16
+## TCC
+- [Verification & Cloud Computing] [Blockchain-Based Public Integrity Verification for Cloud Storage against Procrastinating Auditors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8676357). Zhang, Yuan Xu, Chunxiang Lin, Xiaodong Shen, Xuemin Sherman. 2019
+
+## TVT
+- [Vehicular Network] [BPT Scheme: Establishing Trusted Vehicular Fog Computing Service for Rural Area Based On Blockchain Approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9321730). Dewanta, Favian Mambo, Masahiro. 2021
+
+
+## TEM
+- [Oracle] [On Public Crowdsource-Based Mechanisms for a Decentralized Blockchain Oracle](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9113449). Nelaturu, Keerthi
+Adler, John Merlini, Marco Berryhill, Ryan Veira, Neil Poulos, Zissis Veneris, Andreas. 2020
 
