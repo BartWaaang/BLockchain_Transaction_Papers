@@ -1,7 +1,7 @@
 # Personal Summary
 This is a curated summary **blockchain-related transaction papers**, most of them are selected from IEEE transactions. Welcome to add more transaction paper to this list.
 
-There is also a very comprehensive summary of **blockchain-related conference papers** created by [jianyu-niu](https://github.com/jianyu-niu/blockchain_conference_paper/commits?author=jianyu-niu) , you can find in his respositories
+Beiseds, there is a very comprehensive summary of **blockchain-related conference papers** created by [jianyu-niu](https://github.com/jianyu-niu/blockchain_conference_paper/commits?author=jianyu-niu) , you can find in his respositories
 
 
 ## Table of Listed Transactions
